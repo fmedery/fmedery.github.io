@@ -1,8 +1,8 @@
 # My journey to activate ≈ authentication on our MongoDB clusters
 
-At [ssense] we embrace micro service and I fell in love with Kubernetes in the process but that is another story.
+At [ssense](https:/www/ssense.com) we embrace micro service and I fell in love with Kubernetes in the process but that is another story.
 
-With micro services come the idea of independent data store. With that in mind, software like Cassandra, Elasticsearch and MongoDB.
+With micro services come the idea of independent data store. With that in mind, software like Cassandra, Elasticsearch and MongoDB appeared on my team's radar.
 
 Another trend with these softwares is the absence of secure by design (and with Elasticsearch, security is a premium feature but that's again is another story). Back to Mongodb
 
